@@ -741,6 +741,7 @@ span:hover{
         justify-content: space-between;
         align-items: center;
         padding-left: 0;
+        margin-top:40px;
     }
 
     h1{
