@@ -619,9 +619,9 @@ span:hover{
         content: "";
         position: absolute;
         width: 350px;
-        height: 250px;
+        height: 200px;
         background-color: hsl(231, 69%, 60%);
-        bottom: 250px;
+        bottom: 330px;
         right: -24px;
         border-radius:300px 0 0 300px ; 
         z-index: 0;
